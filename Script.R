@@ -1,5 +1,3 @@
-#imagecolorpicker.com
-
 install.packages("devtools")
 devtools::install_github("tylermorganwall/rayshader")
 devtools::install_github ("ropensci/osmdata")
